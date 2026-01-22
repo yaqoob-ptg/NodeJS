@@ -1,0 +1,16 @@
+{
+  "name": "class-1",
+  "version": "1.0.0",
+  "description": "practice",
+  "license": "ISC",
+  "author": "Yaqoob",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
